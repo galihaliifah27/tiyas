@@ -209,6 +209,14 @@
                 </a>
                 </li>
                 <?php endif; ?>
+                <?php if ($level == "admin") : ?>
+                  <li class="nav-item">
+                    <a href="<?=base_url('berita/laporan');?>" class="nav-link">
+                    <i class="far fa-newspaper nav-icon"></i>
+                    <p>Laporan</p>
+                </a>
+                </li>
+                <?php endif; ?>
           </ul>
         </li>
       <li class="nav-item">
