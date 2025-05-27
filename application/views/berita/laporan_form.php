@@ -46,14 +46,14 @@
         </form>
 
 </div>
-<!-- /.card-body -->
-<div class="card-footer">
-    Footer
-</div>
-<!-- /.card-footer -->
-</div>
-<!-- /.card -->
-</div>
-</section>
-<!-- /.content -->
+                <!-- /.card-body -->
+                <div class="card-footer">
+                    Footer
+                </div>
+                <!-- /.card-footer -->
+            </div>
+            <!-- /.card -->
+        </div>
+        </section>
+    <!-- /.content -->
 </div>
